@@ -1,0 +1,21 @@
+ *{
+    font-family: 'Montserrat', sans-serif;
+ }
+
+ .nav-banner{
+     font-weight: 300 !important;
+     
+ }
+
+ .nav-item{
+     margin: 0px 15px;
+     
+ }
+
+ .nav-link{
+    color: red !important;
+ }
+
+ .btn{
+     border-radius: 25px !important;
+ }
