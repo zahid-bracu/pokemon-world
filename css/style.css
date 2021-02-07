@@ -30,3 +30,8 @@
       font-weight: 700;
       margin-top: 20px;
   }
+
+  .card{
+      max-width: 22rem !important;
+      min-height:650px !important;
+  }
