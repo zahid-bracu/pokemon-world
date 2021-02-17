@@ -1,3 +1,2 @@
 # pokemon-world
- 
-zahid-bracu.github.io/pokemon-world/
+https://pokemon-world-2021.netlify.app/
